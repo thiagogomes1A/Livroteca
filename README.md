@@ -1,2 +1,2 @@
 # Livroteca
-Um lugar para quem ama livros, de todos os tipos
+Um lugar para quem ama livros, de todos os tipos.
